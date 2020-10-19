@@ -1,0 +1,15 @@
+/home/hulio/Escritorio/robotica-julio-aitor/chocachoca/CMakeFiles/install/strip.dir
+/home/hulio/Escritorio/robotica-julio-aitor/chocachoca/CMakeFiles/install/local.dir
+/home/hulio/Escritorio/robotica-julio-aitor/chocachoca/CMakeFiles/install.dir
+/home/hulio/Escritorio/robotica-julio-aitor/chocachoca/CMakeFiles/list_install_components.dir
+/home/hulio/Escritorio/robotica-julio-aitor/chocachoca/CMakeFiles/rebuild_cache.dir
+/home/hulio/Escritorio/robotica-julio-aitor/chocachoca/CMakeFiles/edit_cache.dir
+/home/hulio/Escritorio/robotica-julio-aitor/chocachoca/src/CMakeFiles/install/strip.dir
+/home/hulio/Escritorio/robotica-julio-aitor/chocachoca/src/CMakeFiles/install/local.dir
+/home/hulio/Escritorio/robotica-julio-aitor/chocachoca/src/CMakeFiles/install.dir
+/home/hulio/Escritorio/robotica-julio-aitor/chocachoca/src/CMakeFiles/list_install_components.dir
+/home/hulio/Escritorio/robotica-julio-aitor/chocachoca/src/CMakeFiles/rebuild_cache.dir
+/home/hulio/Escritorio/robotica-julio-aitor/chocachoca/src/CMakeFiles/edit_cache.dir
+/home/hulio/Escritorio/robotica-julio-aitor/chocachoca/src/CMakeFiles/Controller.dir
+/home/hulio/Escritorio/robotica-julio-aitor/chocachoca/src/CMakeFiles/ICES__home_hulio_Escritorio_robotica-julio-aitor_chocachoca_src.dir
+/home/hulio/Escritorio/robotica-julio-aitor/chocachoca/src/CMakeFiles/Controller_autogen.dir
